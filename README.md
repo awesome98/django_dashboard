@@ -1,1 +1,1 @@
-# django_dashboard
+# django_dashboard 만들어보자
